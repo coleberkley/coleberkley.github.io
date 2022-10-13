@@ -1,7 +1,14 @@
 .text-styling{
     background-color: royalblue;
     color: white;
-    border: teal;
+    border: rgb(15, 0, 128);
     border-style: double;
-    border-width: 10px
+    border-width: 5px;
+}
+
+#ref1{
+    text-align: center;
+    color: red;
+    background-color: white;
+    border: rgb(15, 0, 128)
 }
