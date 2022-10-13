@@ -1,5 +1,7 @@
 .text-styling{
     background-color: royalblue;
-    color: green;
+    color: white;
     border: teal;
+    border-style: double;
+    border-width: 10px
 }
